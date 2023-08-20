@@ -1,6 +1,6 @@
-##Projeto de Criação de um crud utilizando jdbc
+# Projeto de Criação de um crud utilizando jdbc##
 
-Usando como base o link do projeto
+## Usando como base o link do projeto
 
 https://websparrow.org/struts/struts2-create-read-update-and-delete-crud-example-using-jdbc
 
@@ -31,6 +31,8 @@ Servidor tomcat rodando
 **Utilizando Docker no windows**
 
 Comando docker para criar container
+
+***docker run --name mysql2 -p 3306:3306 -e MYSQL_ROOT_PASSWORD=root -d mysql:5.7.43***
 
 ![image](https://github.com/casdea/crud-struct2-jdbc/assets/13076257/c2152e03-877f-428d-8464-7f4e5ad1e602)
 
