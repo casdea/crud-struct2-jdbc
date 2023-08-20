@@ -1,4 +1,4 @@
-# Projeto de Criação de um crud utilizando jdbc##
+# Projeto de Criação de um CRUD utilizando Struts2 x jdbc##
 
 ## Usando como base o link do projeto
 
