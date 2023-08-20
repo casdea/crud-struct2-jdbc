@@ -1,4 +1,4 @@
-Projeto de Criação de um crud utilizando jdbc
+##Projeto de Criação de um crud utilizando jdbc
 
 Usando como base o link do projeto
 
@@ -8,7 +8,7 @@ Servidor tomcat rodando
 
 ![image](https://github.com/casdea/crud-struct2-jdbc/assets/13076257/85e05a9e-72f7-4bc7-9ee5-3c5803cf338b)
 
-Janela Principal e ações Inclusão / Alteração e Exclusão
+**Janela Principal e ações Inclusão / Alteração e Exclusão**
 
 ![image](https://github.com/casdea/crud-struct2-jdbc/assets/13076257/3d067977-d909-41c1-ae7b-f3b80ea43227)
 
@@ -24,10 +24,15 @@ Janela Principal e ações Inclusão / Alteração e Exclusão
 
 ![image](https://github.com/casdea/crud-struct2-jdbc/assets/13076257/1ea01f27-c236-43fb-97e8-86d91a97b2ee)
 
-DBave com my sql
+**DBave com my sql**
 
 ![image](https://github.com/casdea/crud-struct2-jdbc/assets/13076257/e36b8808-576b-4ff3-b475-0f511083f76a)
 
+**Utilizando Docker no windows**
+
+Comando docker para criar container
+
+![image](https://github.com/casdea/crud-struct2-jdbc/assets/13076257/c2152e03-877f-428d-8464-7f4e5ad1e602)
 
 
 
