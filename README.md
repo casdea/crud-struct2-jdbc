@@ -12,9 +12,15 @@ Janela Principal
 
 ![image](https://github.com/casdea/crud-struct2-jdbc/assets/13076257/3d067977-d909-41c1-ae7b-f3b80ea43227)
 
+Inclusão
+
 ![image](https://github.com/casdea/crud-struct2-jdbc/assets/13076257/4510a6ac-0af1-4b45-a9ce-bb29d9ab30e7)
 
+Listagem
+
 ![image](https://github.com/casdea/crud-struct2-jdbc/assets/13076257/382c0728-8f62-4e60-8480-ae6b6e79781c)
+
+Alteração
 
 ![image](https://github.com/casdea/crud-struct2-jdbc/assets/13076257/f96e8478-47a7-4164-9b0f-b9377f0d8b85)
 
